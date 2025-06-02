@@ -86,7 +86,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 
 ## OUTPUT
-![Screenshot_2025-05-12_19-25-29](https://github.com/user-attachments/assets/126ff07b-c128-4874-a4d3-9bfae0bc6cc2)
+![Screenshot 2025-06-02 122139](https://github.com/user-attachments/assets/5d2f90f9-e83e-4cdd-97db-bd74e0c686e9)
 
 
 
@@ -110,7 +110,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![Screenshot_2025-05-12_19-26-42](https://github.com/user-attachments/assets/6e819040-f665-4da2-8c78-92702c71535e)
+![Screenshot 2025-06-02 122119](https://github.com/user-attachments/assets/13a50f94-91fe-4834-8c33-5241a960866b)
 
 
 
